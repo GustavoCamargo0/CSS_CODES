@@ -1,0 +1,44 @@
+h2{
+    font-size:50px;
+    text-align: center;
+    }
+    form{
+    text-align: center;
+    }
+    ::placeholder{
+        text-align: center;
+    }
+    
+    
+    
+    
+    *{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+    }
+    body{
+    height: 100vh;
+    background: linear-gradient(135deg,#39f782,aliceblue);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    }
+    .login-container{
+    background-color: aliceblue;
+    padding: 10px 10px;
+    border-radius:  12px;
+    box-shadow: 0px 10px 20px rgba(0,0,0,0.8);
+    width: 300px;
+    
+    
+    }
+
+    button{
+        margin: 2%;
+        width: 180px;height: 40px;
+        border-radius: 10px;
+    
+    }
