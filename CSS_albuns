@@ -20,3 +20,7 @@ h2{
     color: #4A3624;
     background:linear-gradient(100deg,#BFDDEB,#F5E6C8)
 }
+.food{
+    color:#B0B0B0;
+    background:linear-gradient(100deg,#3A5B3C, #4B2C5E )
+}
